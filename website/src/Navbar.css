@@ -1,0 +1,19 @@
+.Design {
+    display: flex;
+    flex-direction: row; /* changed from column to row */
+    justify-content: space-between; /* changed from center to space-between */
+    background-color: black;
+  }
+
+
+  .sub1{
+    display:flex;
+    justify-content: center;
+    color:aliceblue;
+  }
+
+  .sub2{
+    display:flex;
+    margin-left: auto;
+  }
+
