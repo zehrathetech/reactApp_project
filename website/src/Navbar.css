@@ -10,10 +10,27 @@
     display:flex;
     justify-content: center;
     color:aliceblue;
+    height:20%;
+    width:30%;
+    margin-top:15px;
   }
 
   .sub2{
     display:flex;
     margin-left: auto;
+    padding : 20px;
+ 
+  }
+  
+  .sub2 input{
+    border:2px #fe6767; 
+    
+    border-radius: 100px;
+    width:250px;
+    height:50px;
   }
 
+.sub2 button{
+  padding:15px;
+  border-radius:20px;
+}

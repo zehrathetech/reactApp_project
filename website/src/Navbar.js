@@ -10,7 +10,8 @@ function Navbar(){
             </div>
 
             <div className='sub2'>
-                <input type="search" placeholder="SEARCH"></input>
+                <input type="search"></input>
+                <button><i>SEARCH</i></button>
             </div>
         </div>
 
